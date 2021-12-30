@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+create a login with google api to enter with your own google email
+to implement, easy to implement environment variables.
+these must be created as .env inside the src.
+REACT_APP_GOOGLE_API_A0TEST
+You can follow this tutorial to have success in your application
+[Link  tutorial](https://www.youtube.com/watch?v=-OgU5EAcQmo)
+
 ## Available Scripts
 
 In the project directory, you can run:
