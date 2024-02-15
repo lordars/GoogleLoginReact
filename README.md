@@ -1,77 +1,23 @@
-# Getting Started with Create React App
+Descrição:
+O projeto Breadcrumbs GoogleLoginReact é uma implementação simples e eficaz de login utilizando a autenticação do Google em aplicativos desenvolvidos com React. Esta solução permite aos desenvolvedores integrar facilmente o login com contas do Google em seus aplicativos, proporcionando uma experiência de autenticação segura e conveniente para os usuários.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Recursos Principais:
+Login com Google: Os usuários podem fazer login em seus aplicativos utilizando suas contas do Google, sem a necessidade de criar credenciais adicionais.
+Facilidade de Integração: A biblioteca GoogleLoginReact oferece uma interface simplificada para integrar a autenticação do Google em aplicativos React, reduzindo a complexidade do desenvolvimento.
+Personalização: Os desenvolvedores têm a flexibilidade de personalizar o fluxo de login de acordo com as necessidades específicas de seus aplicativos.
+Segurança: Utilizando a autenticação OAuth 2.0 do Google, a solução garante a segurança dos dados dos usuários durante o processo de login.
+Tecnologias Utilizadas:
+React: O projeto é desenvolvido utilizando o framework React, conhecido por sua eficiência e facilidade de uso no desenvolvimento de interfaces de usuário.
+Google OAuth 2.0: A autenticação é implementada utilizando o protocolo OAuth 2.0 do Google, garantindo a segurança e confiabilidade do processo de login.
+GoogleLoginReact: A biblioteca GoogleLoginReact é utilizada para facilitar a integração da autenticação do Google em aplicativos React.
+Contribuição:
+Contribuições de todos os níveis são bem-vindas! Se você deseja contribuir para o projeto, sinta-se à vontade para abrir problemas, enviar solicitações de pull ou entrar em contato com a equipe de desenvolvimento.
 
-create a login with google api to enter with your own google email
-to implement, easy to implement environment variables.
-these must be created as .env inside the src.
-REACT_APP_GOOGLE_API_A0TEST
-You can follow this tutorial to have success in your application
-[Link  tutorial](https://www.youtube.com/watch?v=-OgU5EAcQmo)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Como Contribuir:
+Clone o repositório: git clone https://github.com/seu-usuario/Breadcrumbs-GoogleLoginReact.git
+Instale as dependências: npm install
+Faça suas alterações e teste localmente.
+Envie suas alterações: git push origin nome-da-sua-branch
+Abra uma solicitação de pull descrevendo suas alterações.
+Licença:
+Este projeto é licenciado sob a Licença MIT.
